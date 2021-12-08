@@ -30,7 +30,3 @@ button2 = browser.find_element_by_id("solve")
 button2.click()
 time.sleep(10)
 
-# first_window = browser.window_handles[0]
-# second_window = browser.window_handles[1]
-#
-# browser.switch_to.window(second_window)
